@@ -1,6 +1,6 @@
 {
   "name": "@davidwilling/dave-script",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A tool to scalfold the basic files needed for a basic nodejs application",
   "main": "init-files.js",
   "bin": {
@@ -13,5 +13,13 @@
     "backend"
   ],
   "author": "David Kweku Karikari",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "commonjs",
+  "files": [
+    "init-files.js",
+    "templates/"      
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
 }

@@ -12,9 +12,9 @@ npx @davidwilling/dave-script --base
 
 ### 2. Feature
 
-- 📁 Generates standard folder structure (```src```, ```tests```, ```public```).
-- ⚙️ Pre-configures ```package.json``` and ```.gitignore```
-- 📝 Includes basic Boilerplate for Express or Vanilla Node.
+- 📁 Generates standard files such as(```app.js```, ```server.js```, ```.gitignore``` and ```config.env```).
+- ⚙️ Pre-configures ```config.env``` and ```.gitignore```
+- 📝 The generated files are standard nodejs files often ignored.
 
 ### 3. Contributing
 
